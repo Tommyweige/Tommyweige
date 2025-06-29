@@ -23,7 +23,7 @@ For my undergraduate capstone project, I integrated Python, PyQt5, and YOLOv8 to
 
 
 
-## 💻 Languages I Use
+## Languages I Use
 
 <span>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24"/>
@@ -35,6 +35,6 @@ For my undergraduate capstone project, I integrated Python, PyQt5, and YOLOv8 to
 
 
 
-## 📫 Contact
+## Contact
 
 - Email: `tommy910206@gmail.com`
